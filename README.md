@@ -14,6 +14,6 @@ Used Unity 3d VFX Graph
 * **Mykhailo Dovbnia** - [Sonhokko](https://github.com/Sonhokko)
 
 
-## Screenshots
+## Result
 
 ![](MagicOrb.gif)
