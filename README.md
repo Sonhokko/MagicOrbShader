@@ -16,4 +16,4 @@ Used Unity 3d VFX Graph
 
 ## Screenshots
 
-![](MagicOrb.mp4)
+![](MagicOrb.gif)
