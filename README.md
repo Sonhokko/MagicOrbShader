@@ -1,2 +1,19 @@
 # MagicOrbShader
-Magic Orb VFX Shader Unity 3d
+
+## Description
+
+MagicOrbShader
+
+Used Unity 3d VFX Graph
+
+
+
+
+## Authors
+
+* **Mykhailo Dovbnia** - [Sonhokko](https://github.com/Sonhokko)
+
+
+## Screenshots
+
+![](MagicOrb.mp4)
